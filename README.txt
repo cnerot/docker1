@@ -7,6 +7,7 @@ Contient l'application App1 de la boite DM.
 Pour recuperrer le projet en local:
 
 git clone https://github.com/cnerot/docker1.git
+cd docker1
 docker-compose up -d
 
 Port d'acces: 8080
