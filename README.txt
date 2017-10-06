@@ -9,4 +9,4 @@ Pour recuperrer le projet en local:
 git clone https://github.com/cnerot/docker1.git
 docker-compose up -d
 
-Port d'acces: 8081
+Port d'acces: 8080
